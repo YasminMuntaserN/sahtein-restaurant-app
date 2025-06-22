@@ -14,25 +14,17 @@ A modern cross-platform restaurant application built using **Expo Router**, **Re
 - ✍️ Submit and manage reviews
 - 👤 Edit profile, change password, and logout
 - 📦 Backend powered by [Supabase](https://supabase.com)
- <div align="center">
-    <img src="https://imgur.com/jCrrL6a.jpg"  />
-    <img src="https://imgur.com/91Dltfr.jpg"  />
-  </div>
-    <div align="center">
-          <img src="https://imgur.com/3Vh4ZtI.jpg"  />
-          <img src="https://imgur.com/T8TiBsd.jpg"  />
-  </div>
-    <div align="center">
-          <img src="https://imgur.com/nM6Pbc9.jpg"  />
-          <img src="https://imgur.com/dT8AAsk.jpg"  />
-  </div>
-      <div align="center">
-          <img src="https://imgur.com/L6X5U8Z.jpg"  />
-          <img src="https://imgur.com/undefined.jpg"  />
-  </div>
-        <div align="center">
-          <img src="https://imgur.com/PBmYhwG.jpg"  />
-  </div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://imgur.com/jCrrL6a.jpg" width="200" height="auto" />
+  <img src="https://imgur.com/91Dltfr.jpg" width="200" height="auto" />
+  <img src="https://imgur.com/3Vh4ZtI.jpg" width="200" height="auto" />
+  <img src="https://imgur.com/T8TiBsd.jpg" width="200" height="auto" />
+  <img src="https://imgur.com/nM6Pbc9.jpg" width="200" height="auto" />
+  <img src="https://imgur.com/dT8AAsk.jpg" width="200" height="auto" />
+  <img src="https://imgur.com/L6X5U8Z.jpg" width="200" height="auto" />
+  <img src="https://imgur.com/PBmYhwG.jpg" width="200" height="auto" />
+</div>
+
 ---
 
 ## 📱 Tech Stack
